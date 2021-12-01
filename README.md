@@ -17,4 +17,4 @@ SoftTech will be:
 
 
 
-References materials from @geerlingguy, @novaspirit
+References materials from 
