@@ -1,4 +1,4 @@
-Setting up the Raspberry Pi's
+# Setting up the Raspberry Pi's
 
 - Step 1: Flashing O/S onto each of the SSD's
   - O/S: raspios-bullseye-arm64.zip

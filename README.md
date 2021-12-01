@@ -9,7 +9,7 @@ SoftTech will be:
 -	Docker - in a swarm configuration
 -	Portainer - GUI Container Management Utility
 
-Hardware:
+#Hardware:
 - 5 x Raspberry Pi 4 4GB
 - 1 x Argon ONE M.2 Raspberry Pi 4 Case
 - 2 x 8-Slot Cloudlet Cluster Cases
@@ -27,6 +27,6 @@ Hardware:
 
 
 
-References materials from:
+# References materials from:
 - Jeff Geerling (geerlingguy)
 - Don Hui (Novaspirit Tech)
