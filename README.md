@@ -8,3 +8,13 @@ SoftTech will be:
 -	O/S - Raspberry Pi o/s 64-bit
 -	Docker - in a swarm configuration
 -	Portainer - GUI Container Management Utility
+
+
+
+
+
+
+
+
+
+References from @geerlingguy, @novaspirit
