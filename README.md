@@ -27,6 +27,6 @@ SoftTech will be:
 
 
 
-# References materials from:
+# References:
 - Jeff Geerling (geerlingguy)
 - Don Hui (Novaspirit Tech)
