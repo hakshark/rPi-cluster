@@ -1,4 +1,7 @@
-Placeholder for the Raspbery Pi cluster setup
+Setting up the Raspberry Pi's
+
+- Step 1: Flashing O/S onto each of the SSD's
+- - hfhfhfh
 
 
 - Master Node(s): rPiController01
