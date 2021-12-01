@@ -29,4 +29,4 @@ Hardware:
 
 References materials from:
 - Jeff Geerling (geerlingguy)
-- Don Hui (Novaspirit)
+- Don Hui (Novaspirit Tech)
