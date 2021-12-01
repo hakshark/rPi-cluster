@@ -27,4 +27,6 @@ Hardware:
 
 
 
-References materials from 
+References materials from:
+- Jeff Geerling (geerlingguy)
+- Don Hui (Novaspirit)
