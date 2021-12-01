@@ -3,7 +3,7 @@ Setting up the Raspberry Pi's
 - Step 1: Flashing O/S onto each of the SSD's
   - O/S: raspios-bullseye-arm64.zip
   - Using Raspberry Pi Imager (available for Windows, macOS and Ubuntu for x86)
-    - Use Ctrl+Shift+X to call up properties panel which allows for computer name, enable SSH, set pi password, etc
+    - Use Ctrl+Shift+X to call up properties panel which allows for computer name, enable SSH, set pi password, etc to be set into the image
 
 
 - Master Node(s): rPiController01
