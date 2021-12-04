@@ -8,6 +8,7 @@ SoftTech will be:
 -	O/S - Raspberry Pi o/s 64-bit (Bullseye lite)
 -	Docker - in a swarm configuration
 -	Portainer - GUI Container Management Utility
+-	I will add any extra packages and utilities I use along the way
 
 #Hardware:
 - 5 x Raspberry Pi 4 4GB
