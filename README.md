@@ -1,5 +1,7 @@
 # rPi-cluster
 
+<p align="center"><img src="https://raw.githubusercontent.com/hakshark/rPi-cluster/images/raspberry-pi-logo.jpg" height="73" alt="Raspberry Pi Logo" /></p>
+
 This repo is to be used to support my learning process of building a multi-node Raspberry pi cluster.
 The cluster can then be setup with various containers allowing me to learn how to install, configure and use a range of applications.
 
