@@ -6,17 +6,26 @@ A cluster ([Bramble](http://elinux.org/Bramble)) of 5 Raspberry Pi nodes onto wh
 
 ## Why
 
-to assist in my learning of a variety of container based applications. 
+This is to primarily assist in my learning of a variety of container based applications, and to have it bit of fun. 
 
 This has been inspired by the efforts of people like Jeff Geerling () and Don Hui () who without their excellent guidance I would remain in ignorance.
 
-## Specs - WIP
+## Cluster Specs - WIP
 
-  - 16+ ARMv7 CPU Cores
-  - 5.6 GHz combined compute power
-  - 4 GB RAM
-  - 128 GB microSD flash-based storage
-  - 1 Gbps private network with PoE
+  - 5 x Raspberry Pi 4 Model B (4GB, 1.5GHz 64-bit quad-core CPU) - if you have 8GB variants, more power to you!!
+  - 2 x 8-Slot Cloudlet Cluster Cases
+  - 1 x Argon ONE M.2 Raspberry Pi 4 Case
+  - 1 x WD Green 240GB M.2 Internal SSD (for the Argon ONE Raspberry Pi)
+  - 4 x WD Green 240GB 2.5" SSD
+  - 4 x SSD to USB 3.0 Cable for Raspberry Pi
+  - 1 x TP-Link 8-Port Gigabit Network Switch (**this build is NOT using POE**)
+  - 5 x Cat6A Shielded Snagless RJ45 Ethernet Cable
+  - 1 x Anker Compact 60W 10-Port USB Charging Hub
+  - 5 x USB C 3.0 to USB 3.0 Cable 5Gbps Right Angle 90 Degree 3A
+
+**Additionally:** 1 x M.2 NVME to USB C Enclosure External USB 3.1 to PCI-E (M KEY) for flashing O/S onto M.2 SSD  
+
+**Note:** You could use microSD cards instead of the SSD drives, in that case you need to think about the speed and capacity of the cards, especially if your container apps are going to store large amounts of data.
 
 ## Setting up the Pis
 
