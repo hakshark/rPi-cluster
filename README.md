@@ -18,14 +18,18 @@ This has been inspired by the efforts of people like **Jeff Geerling** ([geerlin
   - 1 x WD Green 240GB M.2 Internal SSD (for the Argon ONE Raspberry Pi)
   - 4 x WD Green 240GB 2.5" SSD
   - 4 x SSD to USB 3.0 Cable for Raspberry Pi
-  - 1 x TP-Link 8-Port Gigabit Network Switch (**this build is NOT using POE**)
+  - 1 x TP-Link 8-Port Gigabit Network Switch (**this build is NOT using Power-over-Ethernet (POE)**)
   - 5 x Cat6A Shielded Snagless RJ45 Ethernet Cable
   - 1 x Anker Compact 60W 10-Port USB Charging Hub
   - 5 x USB C 3.0 to USB 3.0 Cable 5Gbps Right Angle 90 Degree 3A
 
 >**Additionally:** 1 x M.2 NVME to USB C Enclosure External USB 3.1 to PCI-E (M KEY) for flashing O/S onto M.2 SSD  
 
->**Note:** You could use microSD cards instead of the SSD drives, in that case you need to think about the speed and capacity of the cards, especially if your container apps are going to store large amounts of data.
+>**Note:** You could use microSD cards instead of the SSD drives, in that case you need to think about the speed and capacity of the cards, especially if your container apps are going to store large amounts of data.  
+
+>**Note:** You could ommit the network switch and cables if you intend to use your wi-fi for connectivity. **No** instructions are provided to setup and configure wireless connectivity in this project.  
+
+>**Note:** For my implementation I will be running all the Raspberry Pi's in this project headless (ssh and cli). You may prefer to use the GUI and therefore would need monitor, keyboard and mouse. **No** instructions are provided for setup and configuration through the GUI.
 
 ## Software & Utilities- WIP
 
@@ -33,6 +37,7 @@ This has been inspired by the efforts of people like **Jeff Geerling** ([geerlin
   - docker (to be completed)
   - portainer (to be completed)
   - [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
+  - ssh client (PuTTY and MPuTTY)
 
 >**Note:** You could potentially use other ARM-based Linux distros, but I have not had chance to look into these
 
