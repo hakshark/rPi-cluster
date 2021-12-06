@@ -2,13 +2,13 @@
 
 # rPi-cluster: A learning platform
 
-A cluster ([Bramble](http://elinux.org/Bramble)) of 5 Raspberry Pi nodes onto which Docker and Portainer are deployed.
+A cluster ([Bramble](http://elinux.org/Bramble)) of 5 Raspberry Pi nodes onto which **Docker** and **Portainer.io** are deployed to create my learning platform.
 
 ## Why
 
 This is to primarily assist in my learning of a variety of container based applications, and to have it bit of fun. 
 
-This has been inspired by the efforts of people like Jeff Geerling () and Don Hui () who without their excellent guidance I would remain in ignorance.
+This has been inspired by the efforts of people like **Jeff Geerling** ([geerlingguy](https://github.com/geerlingguy)) and **Don Hui** ([novaspirit](https://github.com/novaspirit)) who without their excellent guidance I would remain in ignorance.
 
 ## Cluster Specs - WIP
 
@@ -26,6 +26,15 @@ This has been inspired by the efforts of people like Jeff Geerling () and Don Hu
 >**Additionally:** 1 x M.2 NVME to USB C Enclosure External USB 3.1 to PCI-E (M KEY) for flashing O/S onto M.2 SSD  
 
 >**Note:** You could use microSD cards instead of the SSD drives, in that case you need to think about the speed and capacity of the cards, especially if your container apps are going to store large amounts of data.
+
+## Software & Utilities- WIP
+
+  - Raspberry Pi O/S 64-bit ([raspios-bullseye](https://downloads.raspberrypi.org/raspios_arm64/images/))
+  - docker (to be completed)
+  - portainer (to be completed)
+  - [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
+
+>**Note:** You could potentially use other ARM-based Linux distros, but I have not had chance to look into these
 
 ## Setting up the Pis
 
