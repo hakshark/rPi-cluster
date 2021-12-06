@@ -40,7 +40,7 @@ This has been inspired by the efforts of people like **Jeff Geerling** ([geerlin
 
 The process for setting up all the Raspberry Pis is outlined in the Wiki:
 
-  1. Prepare the Raspberry Pis for provisioning
+  1. [Prepare the Raspberry Pis for provisioning]()
   1. Rack the Raspberry Pis
   1. Network the Raspberry Pis
   1. Provision the Raspberry Pis
