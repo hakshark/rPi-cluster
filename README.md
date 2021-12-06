@@ -23,9 +23,9 @@ This has been inspired by the efforts of people like Jeff Geerling () and Don Hu
   - 1 x Anker Compact 60W 10-Port USB Charging Hub
   - 5 x USB C 3.0 to USB 3.0 Cable 5Gbps Right Angle 90 Degree 3A
 
-**Additionally:** 1 x M.2 NVME to USB C Enclosure External USB 3.1 to PCI-E (M KEY) for flashing O/S onto M.2 SSD  
+>**Additionally:** 1 x M.2 NVME to USB C Enclosure External USB 3.1 to PCI-E (M KEY) for flashing O/S onto M.2 SSD  
 
-**Note:** You could use microSD cards instead of the SSD drives, in that case you need to think about the speed and capacity of the cards, especially if your container apps are going to store large amounts of data.
+>**Note:** You could use microSD cards instead of the SSD drives, in that case you need to think about the speed and capacity of the cards, especially if your container apps are going to store large amounts of data.
 
 ## Setting up the Pis
 
@@ -39,4 +39,4 @@ The process for setting up all the Raspberry Pis is outlined in the Wiki:
   1. Create Docker Swarm
   1. Deploy Portainer onto Master Node
 
-> It is recommended you use the 64-bit version of Raspberry Pi OS, as some of this project's dependencies require it (and may not install on 32-bit Pi OS).
+>**Note:** It is recommended you use the 64-bit version of Raspberry Pi OS, as some of this project's dependencies require it (and may not install on 32-bit Pi OS).
