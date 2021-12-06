@@ -40,9 +40,9 @@ This has been inspired by the efforts of people like **Jeff Geerling** ([geerlin
 
 The process for setting up all the Raspberry Pis is outlined in the Wiki:
 
-  1. [Prepare the Raspberry Pis for provisioning](https://raw.githubusercontent.com/hakshark/rPi-cluster/main/setups/pi-Step1.md)
-  1. Rack the Raspberry Pis
-  1. Network the Raspberry Pis
+  1. [Prepare the Raspberry Pis for provisioning](https://github.com/hakshark/rPi-cluster/blob/main/setups/pi-Step1)
+  1. Rack the Raspberry Pis 
+  1. Network the Raspberry Pis h
   1. Provision the Raspberry Pis
   1. Deploy Docker to the Raspberry Pis
   1. Create Docker Swarm
