@@ -43,6 +43,8 @@ This has been inspired by the efforts of people like **Jeff Geerling** ([geerlin
   - [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
   - ssh client (PuTTY and MPuTTY)
 
+>**Note:** It is recommended you use the 64-bit version of Raspberry Pi OS, as some of this project's dependencies require it (and may not install on 32-bit Pi OS).
+
 >**Note:** You could potentially use other ARM-based Linux distros, but I have not had chance to look into these
 
 ## Setting up the Pis
@@ -56,5 +58,3 @@ The process for setting up all the Raspberry Pis is outlined in the Wiki:
   1. Deploy Docker to the Raspberry Pis
   1. Create Docker Swarm
   1. Deploy Portainer onto Master Node
-
->**Note:** It is recommended you use the 64-bit version of Raspberry Pi OS, as some of this project's dependencies require it (and may not install on 32-bit Pi OS).
