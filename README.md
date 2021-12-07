@@ -47,7 +47,7 @@ This has been inspired by the efforts of people like **Jeff Geerling** ([geerlin
 
 >**Note:** You could potentially use other ARM-based Linux distros, but I have not had chance to look into these
 
-## Setting up the Pis
+## Building the rPi-cluster
 
 The process for setting up all the Raspberry Pis is outlined in the Wiki:
 
