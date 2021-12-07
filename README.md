@@ -17,11 +17,11 @@ This has been inspired by the efforts of people like **Jeff Geerling** ([geerlin
 
 ## Cluster Specs - WIP
 
-  - 5 x Raspberry Pi 4 Model B (4GB, 1.5GHz 64-bit quad-core CPU) - if you have 8GB variants, more power to you!!
-  - 2 x 8-Slot Cloudlet Cluster Cases
-  - 1 x Argon ONE M.2 Raspberry Pi 4 Case
-  - 1 x WD Green 240GB M.2 Internal SSD (for the Argon ONE Raspberry Pi)
-  - 4 x WD Green 240GB 2.5" SSD
+  - 5 x [Raspberry Pi 4 Model B](https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-4-model-b) (4GB, 1.5GHz 64-bit quad-core CPU) - if you have 8GB variants, more power to you!!
+  - 2 x [8-Slot Cloudlet Cluster Cases](https://thepihut.com/collections/raspberry-pi-cases/products/8-slot-cloudlet-cluster-case)
+  - 1 x [Argon ONE M.2 Raspberry Pi 4 Case](https://thepihut.com/collections/raspberry-pi-cases/products/argon-one-m-2-raspberry-pi-4-case)
+  - 1 x [WD Green 240GB M.2 Internal SSD](https://thepihut.com/collections/raspberry-pi-sd-cards-and-adapters/products/wd-green-240gb-m-2-internal-ssd) (for the Argon ONE Raspberry Pi)
+  - 4 x [WD Green 240GB 2.5" SSD](https://thepihut.com/collections/raspberry-pi-sd-cards-and-adapters/products/wd-green-240gb-2-5-ssd)
   - 4 x SSD to USB 3.0 Cable for Raspberry Pi
   - 1 x TP-Link 8-Port Gigabit Network Switch (**this build is NOT using Power-over-Ethernet (POE)**)
   - 5 x Cat6A Shielded Snagless RJ45 Ethernet Cable
