@@ -35,6 +35,14 @@ This has been inspired by the efforts of people like **Jeff Geerling** ([geerlin
 
 >**Note:** For my implementation I will be running all the Raspberry Pi's in this project headless (ssh and cli). You may prefer to use the GUI and therefore would need monitor, keyboard and mouse. **No** instructions are provided for setup and configuration through the GUI, although you could just open a terminal inside the GUI and try some of the install and configurations......
 
+## Cluster Design - WIP
+
+  - rPiManager - Fitted into the Argon ONE case, uses M.2 SSD to boot from and to store data
+  - rPiDockNode01 - Docker worker node fitted into the Cloudlet Cluster case, attached to the 2.5" SSD to boot from and to store data
+  - rPiDockNode02 - Docker worker node fitted into the Cloudlet Cluster case, attached to the 2.5" SSD to boot from and to store data
+  - rPiDockNode03 - Docker worker node fitted into the Cloudlet Cluster case, attached to the 2.5" SSD to boot from and to store data
+  - rPiDockNode04 - Docker worker node fitted into the Cloudlet Cluster case, attached to the 2.5" SSD to boot from and to store data
+
 ## Software & Utilities- WIP
 
   - Raspberry Pi O/S 64-bit ([raspios-bullseye](https://downloads.raspberrypi.org/raspios_arm64/images/))
